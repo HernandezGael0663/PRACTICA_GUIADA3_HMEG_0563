@@ -1,0 +1,32 @@
+<html><!-- Inicio del documento HTML -->
+
+
+    <head>  <!-- Contenedor de los datos ingresados -->
+       <title>Página WEB de ejemplo: texto</title>  <!-- Título que se mostrará en la pestaña del navegador -->
+
+  </head>
+
+  <body> <!-- Inicio de la página con el contenido visible -->
+
+
+    <!-- Texto normal. La etiqueta <br/> inserta un salto de línea -->
+    Esta es línea, y a continuación insertamos un salto de línea.<br/>
+
+    <!-- <center> centra horizontalmente todo el contenido que esté en su interior -->
+    <center>Esta es otra línea.</center>
+
+    <!-- Otro texto con salto de línea al final -->
+    Esta es una línea, y a continuación insertamos un salto de línea.<br/>
+
+    <!-- <p> crea un párrafo. El atributo align="left" alinea el texto a la izquierda -->
+    <p align="left">El texto de este párrafo está alineado a la izquierda (por defecto, si no se indi...</p>
+
+    <!-- align="center" alinea el texto del párrafo en el centro de la pantalla -->
+    <p align="center">El texto de este párrafo está alineado al centro.</p>
+
+    <!-- align="right" alinea el texto del párrafo hacia la derecha -->
+    <p align="right">El texto de este párrafo está alineado a la derecha.</p>
+
+  </body> <!-- Cierre de la página -->
+
+</html> <!-- Cierre del documento HTML -->
